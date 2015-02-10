@@ -1,0 +1,17 @@
+{
+  "name": "ems-response-check",
+  "version": "0.0.1",
+  "description": "Web service tests",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nairn1983/web-service-tests.git"
+  },
+  "dependencies": {
+    "http-https": "1.0.0",
+    "mocha": "2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
